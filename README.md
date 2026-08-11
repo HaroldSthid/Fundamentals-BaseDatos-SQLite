@@ -1,8 +1,6 @@
 # Fundamentos de Bases de Datos — Pipeline SQLite
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<usuario>/<repo>/blob/main/Fundamentos_BaseDatos_SQLite.ipynb)
-
-> Reemplazá `<usuario>/<repo>` en el link de arriba una vez que subas este repo a GitHub — así el badge abre el notebook directo en Colab.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaroldSthid/Fundamentals-BaseDatos-SQLite/blob/master/Fundamentos_BaseDatos_SQLite.ipynb)
 
 Pipeline end-to-end de fundamentos de bases de datos, usando **SQLite** como motor, inspirado en la ruta de [VibePixel Academy — Baby Steps Tech](https://haroldsthid.github.io/VibePixel-AcademyBabyStepsTech/index.html#ruta).
 
